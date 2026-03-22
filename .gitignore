@@ -1,0 +1,4 @@
+# Bỏ qua tất cả file thực thi .exe
+*.exe
+# Bỏ qua các file rác của VS Code
+.vscode/
